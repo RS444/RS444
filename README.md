@@ -20,14 +20,55 @@ I am particularly interested in **real-time intelligence, model optimization, an
 
 ---
 
+## 🚀 Featured Projects
+
+### 🧠 AI Job Assistant (RAG + LLM)
+
+> Intelligent job matching system using Retrieval-Augmented Generation to analyze and score job listings.
+
+* 🔍 Semantic job analysis & ranking
+* ⚡ Improved accuracy using chunking optimization
+* 🤖 LLM-powered insights generation
+
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-00C9FF?style=for-the-badge\&logo=github)](https://github.com/RS444/AI-job-assistant)
+
+---
+
+### 🏥 Real-Time Health Monitoring System
+
+> ML-based system for predicting chronic health risks using wearable sensor data.
+
+* 📊 Real-time data processing
+* ❤️ Health risk prediction models
+* 📡 IoT sensor integration
+
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-00C9FF?style=for-the-badge\&logo=github)](https://github.com/RS444)
+
+---
+
+### 🎙 Talk2ERP (Voice-Based Automation)
+
+> Voice-controlled system integrated with ERPNext to automate purchase workflows.
+
+* 🎤 Voice command processing
+* 🔗 ERPNext integration
+* ⚙️ Workflow automation
+
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-00C9FF?style=for-the-badge\&logo=github)](https://github.com/RS444)
+
+---
+
 ## 🌐 Connect
 
 <p align="left">
-<a href="https://linkedin.com/in/vijay-r-s-385387271" target="blank">
+<a href="https://www.linkedin.com/in/vijay-r-s-385387271/" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:vijayrs834@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="https://vijay-portfolio-black.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/>
 </a>
 </p>
 
@@ -48,10 +89,10 @@ I am particularly interested in **real-time intelligence, model optimization, an
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge)
 
-### 📱 Development
+### 🧠 Development & Systems
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-IoT-blue?style=for-the-badge)
+![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-grey?style=for-the-badge)
 
 ### 🗄 Database & Tools
 
@@ -78,3 +119,11 @@ I am particularly interested in **real-time intelligence, model optimization, an
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=RS444&color=00C9FF&style=for-the-badge"/>
 </p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:2C5364,100:0F2027&height=120&section=footer"/>
+
+</div>
